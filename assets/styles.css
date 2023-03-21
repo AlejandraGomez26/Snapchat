@@ -1,0 +1,69 @@
+.bg-yellow {
+    background-color: #fffc00;
+}
+.image{
+    width:40px ;
+}
+.svg{
+    width: 20px;
+}
+.options {
+    margin-left: 500px;
+}
+.container1 {
+    width: 40%;
+    margin-left: 200px;
+
+    
+}
+.containera {
+    margin-top: 80px;
+    width: 410px;
+   
+    
+}
+.font{
+    font-size: 60px;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+.font2 {
+   font-size:25px ;
+}
+.boton{
+width: 300px;
+
+background-color: black;
+}
+.container2{
+    width: 60%;
+   margin-left: 600px;
+   margin-top: -450px;
+}
+.pc{
+    width: 600px;
+}
+.circulo{
+    width: 40px;
+    height: 40px;
+  
+}
+.footer {
+
+    margin-top: 230px;
+}
+.final{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.footerf{
+    height: 100px;
+    background-color: #303335;
+    
+}
+.footere{
+    height: 50px;
+}
+.amarillo{
+    color: #fffc00;
+    font-weight: bold;
+}
